@@ -1,0 +1,10 @@
+streamlit 
+dotenv 
+PyPDF2 
+langchain.text_splitter 
+langchain_community.embeddings 
+langchain_community.vectorstores 
+langchain.memory 
+langchain.chains 
+langchain_groq 
+os
